@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.left{
+  text-align: left;
+}
+.action-button{
+  text-align: right;
+}
+.action-button{
+  margin: 5px;
+}
+.card{
+  margin: 10px;
+}
